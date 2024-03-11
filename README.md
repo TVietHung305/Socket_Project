@@ -1,2 +1,2 @@
 # Socket_Project
-Simple chat application using Python
+A simple chat application using Python
